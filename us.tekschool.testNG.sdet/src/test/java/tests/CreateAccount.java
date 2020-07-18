@@ -14,7 +14,7 @@ import utilities.ExcelUtility;
 @Listeners(utilities.TestNGListeners.class)
 public class CreateAccount extends Base {
 
-	HotelLoginPageObj hotelpageObj;
+	 //s HotelLoginPageObj hotelpageObj;
 	CreateAccountPageObj createAccountPageObj;
 // noting jjajjaja
 	@BeforeMethod
